@@ -1,0 +1,15 @@
+E:\WorkSpace\TestCV\TestCV2\bin\Debug\net6.0\TestCV2.exe
+E:\WorkSpace\TestCV\TestCV2\bin\Debug\net6.0\TestCV2.deps.json
+E:\WorkSpace\TestCV\TestCV2\bin\Debug\net6.0\TestCV2.runtimeconfig.json
+E:\WorkSpace\TestCV\TestCV2\bin\Debug\net6.0\TestCV2.dll
+E:\WorkSpace\TestCV\TestCV2\bin\Debug\net6.0\TestCV2.pdb
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.csproj.AssemblyReference.cache
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.AssemblyInfoInputs.cache
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.AssemblyInfo.cs
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.csproj.CoreCompileInputs.cache
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.dll
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\refint\TestCV2.dll
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.pdb
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\TestCV2.genruntimeconfig.cache
+E:\WorkSpace\TestCV\TestCV2\obj\Debug\net6.0\ref\TestCV2.dll
