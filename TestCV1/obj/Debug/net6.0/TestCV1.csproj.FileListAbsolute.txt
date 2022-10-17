@@ -1,0 +1,15 @@
+E:\WorkSpace\TestCV\TestCV1\bin\Debug\net6.0\TestCV1.exe
+E:\WorkSpace\TestCV\TestCV1\bin\Debug\net6.0\TestCV1.deps.json
+E:\WorkSpace\TestCV\TestCV1\bin\Debug\net6.0\TestCV1.runtimeconfig.json
+E:\WorkSpace\TestCV\TestCV1\bin\Debug\net6.0\TestCV1.dll
+E:\WorkSpace\TestCV\TestCV1\bin\Debug\net6.0\TestCV1.pdb
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.csproj.AssemblyReference.cache
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.AssemblyInfoInputs.cache
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.AssemblyInfo.cs
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.csproj.CoreCompileInputs.cache
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.dll
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\refint\TestCV1.dll
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.pdb
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\TestCV1.genruntimeconfig.cache
+E:\WorkSpace\TestCV\TestCV1\obj\Debug\net6.0\ref\TestCV1.dll
