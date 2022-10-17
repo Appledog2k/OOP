@@ -1,8 +1,8 @@
 namespace TestCV2
 {
-    public class Rectangle
+    public class Rectangle : Shape
     {
-        double length, width;
+        private double length, width;
         public Rectangle(double length, double width)
         {
             this.length = length;
@@ -31,7 +31,7 @@ namespace TestCV2
         {
             this.length = length;
         }
-        public double tinhDienTich()
+        public override double tinhDienTich()
         {
             return width * length;
         }

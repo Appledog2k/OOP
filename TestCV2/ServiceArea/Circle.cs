@@ -1,8 +1,8 @@
 namespace TestCV2
 {
-    public class Circle
+    public class Circle : Shape
     {
-        double radius;
+        private double radius;
         public Circle(double radius)
         {
             this.radius = radius;
@@ -20,7 +20,7 @@ namespace TestCV2
         {
             this.radius = radius;
         }
-        public double tinhDienTich()
+        public override double tinhDienTich()
         {
             return radius * radius * Math.PI;
         }

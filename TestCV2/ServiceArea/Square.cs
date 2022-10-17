@@ -1,8 +1,8 @@
 namespace TestCV2
 {
-    public class Square
+    public class Square : Shape
     {
-        double length;
+        private double length;
         public Square(double length)
         {
             this.length = length;
@@ -20,7 +20,7 @@ namespace TestCV2
         {
             this.length = length;
         }
-        public double tinhDienTich()
+        public override double tinhDienTich()
         {
             return length * length;
         }
